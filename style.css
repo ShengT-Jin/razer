@@ -1,0 +1,26 @@
+
+.topmenu.menu{
+  color: #999;
+  background-color: #222;
+  height: 65px;
+}
+.vertically.fitted.item{
+  color: #999;
+}
+body{
+  background-color: #222;
+}
+.own-class {
+  color: #999;
+}
+.first.container {
+  position: relative;
+  text-align: center;
+  color: #999;
+}
+.footer{
+  height: 240px;
+  padding-top: 25px;
+  padding-bottom: 24px;
+  font-size: 14px;
+}
